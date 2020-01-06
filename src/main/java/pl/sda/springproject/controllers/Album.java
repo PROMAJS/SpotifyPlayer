@@ -1,4 +1,4 @@
-package pl.sda.springproject;
+package pl.sda.springproject.controllers;
 
 
 import org.springframework.http.HttpEntity;
